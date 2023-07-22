@@ -404,7 +404,7 @@ public class borrowSample extends javax.swing.JFrame {
         }
         catch(Exception e)
         {
-            JOptionPane.showMessageDialog(null,"You already given our the book. Contact the admin for more information");
+            JOptionPane.showMessageDialog(null,"Request denied");
         }
     }//GEN-LAST:event_jButton2ActionPerformed
 
